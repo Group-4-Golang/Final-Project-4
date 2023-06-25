@@ -5,6 +5,3 @@ Ini adalah project keempat dari program MSIB di Hacktiv8. Project kali ini adala
 * Zidane
 * Aqilla
 * Naufal
-
-### Base Local URL   : `http://localhost:8080`
-### Base Railway URL  : `https://fp4-kelompok4.up.railway.app`
